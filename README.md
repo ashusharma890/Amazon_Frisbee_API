@@ -8,5 +8,8 @@ Code written for creation in index.js file.
 
 Deployed on Heroku.
 
+<image width="632" alt="image" src="https://user-images.githubusercontent.com/81765508/190861767-75c6cbb1-9739-47d6-a3a4-10bae1c55f64.png">
+
+
 
 
